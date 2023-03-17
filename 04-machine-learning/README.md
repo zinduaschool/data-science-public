@@ -14,5 +14,9 @@ This course is focused on introducing machine learning, Scikit Learn, and focuse
 4. Ensemble 
 5. Classification Project
 ## Model Evaluation
-1. 
+1. Regression Metrics
+2. Classification Metrics
+3. Hyperparameter Tuning
+4. Streamlit Deployment
+5. Supervised Learning Project
 ## Machine Learning Capstone
