@@ -9,20 +9,15 @@ This course is focused on introducing machine learning, Scikit Learn, and focuse
 | 1.4 | Data Preprocessing | Encoding Categorical Features. Feature Scaling. Feature Extraction. Handling Noisy Data (Binning) | CHALLENGE: Given a dataset, conduct data preprocessing to output clean data for machine learning |
 | 1.5 | Data Preparation Weekly Project | PROJECT involving integrating datasets from multiple sources, cleaning it, and preprocessing it for Machine Learning | | |
 
-## Week 12: Regression
+## Week 2: Regression
 | Index | Lesson | Content Breakdown | Project/Quiz |
 |---|---|---|---|
-| 2.1 | Linear Regression |  |  |
-| 2.2 |  |  |  |
-| 2.3 |  |  |  |
-| 2.4 |  |  |  |
-| 2.5 |  |  |  |
+| 2.1 | Linear Regression | Model Intution, Gradient Descent, Scikit Learn Example |  |
+| 2.2 | Advanced Linear Regression | Multivariable Regression, Feature Scaling, Polynomial Features |  |
+| 2.3 | Logisitic Regression | Model Intitution, Gradient Descent, Scikit Learn Example |  |
+| 2.4 | Regularisation | The Overfitting Problem, L1 vs L2 Regularisation, Scikit Learn Example |  |
+| 2.5 | Regression Project | PROJECT involving the prediction of a continuous variable (Car Price or House Price) |  |
 
-1. Linear Regression
-2. Logistic Regression (Classification)
-3. Bias-Variance Trade-Off
-3. Regularisation
-5. Regression Project
 ## Week 3: Classification
 | Index | Lesson | Content Breakdown | Project/Quiz |
 |---|---|---|---|
