@@ -27,16 +27,16 @@ This course is focused on introducing machine learning, Scikit Learn, and focuse
 | 3.4 | Handling Class Imbalances |  |  |
 | 3.5 | Classification Project |  |  |
 
-## Model Evaluation
+## Week 4: Model Evaluation & Deployment
 | Index | Lesson | Content Breakdown | Project/Quiz |
 |---|---|---|---|
 | 4.1 | Model Evaluation | Regression Metrics, Classification Metrics, Confusion Matrix |  |
 | 4.2 | Hyperparameter Tuning | Grid Search CV, Working with Pipelines, Learning Curves |  |
 | 4.3 | Error Analysis |  |  |
 | 4.4 | Streamlit Deployment |  |  |
-| 4.5 | End-to-End ML Project |  |  |
+| 4.5 | End-to-end ML Project |  |  |
 
-## Machine Learning Capstone
+## Week 5: Machine Learning Capstone
 Student can choose to work on one of the following projects:
 1. Regression Capstone
 2. Classification Capstone 
