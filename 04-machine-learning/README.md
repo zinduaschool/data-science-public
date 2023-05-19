@@ -21,29 +21,21 @@ This course is focused on introducing machine learning, Scikit Learn, and focuse
 ## Week 3: Classification
 | Index | Lesson | Content Breakdown | Project/Quiz |
 |---|---|---|---|
-| 3.1 |  |  |  |
-| 3.2 |  |  |  |
-| 3.3 |  |  |  |
-| 3.4 |  |  |  |
-| 3.5 |  |  |  |
-1. K-Nearest & Naives Bayes
-2. Support Vector Machines
-3. Decision Trees
-4. Ensemble 
-5. Classification Project
+| 3.1 | K-Nearest & Naives Bayes |  |  |
+| 3.2 | Support Vector Machines |  |  |
+| 3.3 | Trees & Ensemble Methods |  |  |
+| 3.4 | Handling Class Imbalances |  |  |
+| 3.5 | Classification Project |  |  |
+
 ## Model Evaluation
 | Index | Lesson | Content Breakdown | Project/Quiz |
 |---|---|---|---|
-| 4.1 |  |  |  |
-| 4.2 |  |  |  |
-| 4.3 |  |  |  |
-| 4.4 |  |  |  |
-| 4.5 |  |  |  |
-1. Regression Metrics
-2. Classification Metrics
-3. Hyperparameter Tuning
-4. Streamlit Deployment
-5. Supervised Learning Project
+| 4.1 | Model Evaluation | Regression Metrics, Classification Metrics, Confusion Matrix |  |
+| 4.2 | Hyperparameter Tuning | Grid Search CV, Working with Pipelines, Learning Curves |  |
+| 4.3 | Error Analysis |  |  |
+| 4.4 | Streamlit Deployment |  |  |
+| 4.5 | End-to-End ML Project |  |  |
+
 ## Machine Learning Capstone
 Student can choose to work on one of the following projects:
 1. Regression Capstone
