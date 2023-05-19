@@ -1,5 +1,6 @@
 # Machine Learning Curriculum
 This course is focused on introducing machine learning, Scikit Learn, and focuses on supervised machine learning. Below is a breakdown of the course:
+## Week 1: Introduction and Data Preparation
 | Index | Lesson | Content Breakdown | Project/Quiz |
 |---|---|---|---|
 | 1.1 | Introduction to Machine Learning | What is Machine Learning. Supervised Learning. Unsupervised Learning. Applications of Machine Learning. | QUIZ: Determine the difference between supervised and unsupervised learning problems |
@@ -8,25 +9,41 @@ This course is focused on introducing machine learning, Scikit Learn, and focuse
 | 1.4 | Data Preprocessing | Encoding Categorical Features. Feature Scaling. Feature Extraction. Handling Noisy Data (Binning) | CHALLENGE: Given a dataset, conduct data preprocessing to output clean data for machine learning |
 | 1.5 | Data Preparation Weekly Project | PROJECT involving integrating datasets from multiple sources, cleaning it, and preprocessing it for Machine Learning | | |
 
-## Introduction & Data Preparation
-1. Introduction to Machine Learning
-2. Scikit Learn Data Preprocessing
-3. Hyperparameteres & Model Validation
-4. Feature Engineering: Feature Scaling, 
-5. Data Preparation Project
-## Regression
+## Week 12: Regression
+| Index | Lesson | Content Breakdown | Project/Quiz |
+|---|---|---|---|
+| 2.1 | Linear Regression |  |  |
+| 2.2 |  |  |  |
+| 2.3 |  |  |  |
+| 2.4 |  |  |  |
+| 2.5 |  |  |  |
+
 1. Linear Regression
 2. Logistic Regression (Classification)
 3. Bias-Variance Trade-Off
 3. Regularisation
 5. Regression Project
-## Classification
+## Week 3: Classification
+| Index | Lesson | Content Breakdown | Project/Quiz |
+|---|---|---|---|
+| 3.1 |  |  |  |
+| 3.2 |  |  |  |
+| 3.3 |  |  |  |
+| 3.4 |  |  |  |
+| 3.5 |  |  |  |
 1. K-Nearest & Naives Bayes
 2. Support Vector Machines
 3. Decision Trees
 4. Ensemble 
 5. Classification Project
 ## Model Evaluation
+| Index | Lesson | Content Breakdown | Project/Quiz |
+|---|---|---|---|
+| 4.1 |  |  |  |
+| 4.2 |  |  |  |
+| 4.3 |  |  |  |
+| 4.4 |  |  |  |
+| 4.5 |  |  |  |
 1. Regression Metrics
 2. Classification Metrics
 3. Hyperparameter Tuning
