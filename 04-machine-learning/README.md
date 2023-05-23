@@ -1,5 +1,5 @@
 # Machine Learning Curriculum
-This course is focused on introducing machine learning, Scikit Learn, and focuses on supervised machine learning. Below is a breakdown of the course:
+This course, also called Machine Learning I, is focused on introducing machine learning, Scikit Learn, and focuses on supervised machine learning. Below is a breakdown of the course:
 ## Week 1: Introduction and Data Preparation
 | Index | Lesson | Content Breakdown | Project/Quiz |
 |---|---|---|---|
@@ -41,3 +41,9 @@ Student can choose to work on one of the following projects:
 1. Regression Capstone
 2. Classification Capstone 
 3. Image Classification Capstone
+
+## Next Steps – Machine Learning II
+The following machine learning topics will be covered in the advanced machine learning course:
+1. **Unsupervised Learning:** Clustering, Anomaly Detection, Dimensionality Reduction
+2. **Time Series Analysis:** ARIMA Model, ANOVA Model, ARCH/GARCH Model
+3. **Neural Networks:** Perceptron, CNN (Computer Vision), RNN (Sequential Data), NLP
