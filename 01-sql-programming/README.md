@@ -31,3 +31,10 @@ The course goes through the SQL and data base design fundamentals required to be
 | 3.3 | Database Normalization | Crawfords Notation Recap, Redundancy Concepts, 1 NF, 2 NF, 3 NF | QUIZ: Determining Tidy Data and how to outlier and missing data |
 | 3.4 | Data Models Challenge |  Conceptual and Physical Schemas in Real Life | CHALLENGE: Given a data model, relationships between the different fields and/or tables, and link this to the business situation|
 | 3.5 | Data Models Challenge | PROJECT involving using information given by a hypothetical client to design a hospital database with multiple departments or service points | | |
+
+## Week 4: Introduction to Power BI
+## Week 5: SQL and Data Analysis Capstone
+Student will work on a project involving querying a database and connecting this to a Power BI Dashboard. 
+
+## Next Steps – Power BI Immersion
+The student is advised to undertake an extensive training on Power BI, as it is a key tool in visualizing and manipulating data using it's power query module. 
