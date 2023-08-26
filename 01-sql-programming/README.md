@@ -9,7 +9,7 @@ The course goes through the SQL and data base design fundamentals required to be
 | 1.1 | Introduction to Databases | What is a Database. Examples of Databases. Types of Databases. SQL and No-SQL Databases. Tables and Keys in Databases | QUIZ: Determine the difference between SQL and No-SQL Databases |
 | 1.2 | Introduction to SQL  | What is SQL. What is MySQL. MySQL Installation on Windows. MySQL Installation on Mac | CHALLENGE: Install MySQL and the text Editor |
 | 1.3 | Building Tables | Create Tables. Inserting Data. Table Constraints. Drop Tables. Check Constraint| QUIZ: Create a new database of students according to provided set of constraints and data fields |
-| 1.4 | Basic Queries | Update Queries. Alter Tables. Delete Queries. Describe | CHALLENGE: Given a dataset, conduct data preprocessing to output clean data for machine learning |
+| 1.4 | Basic Queries | Update Queries. Alter Tables. Delete Queries. Describe | CHALLENGE: Given a predefined table, alter the table to insert a given set of data |
 | 1.5 | SQL Baasics Weekly Project | PROJECT involving running basic SQL queries by running SQL scripts for an NGO based data and creating veiws | | |
 
 
