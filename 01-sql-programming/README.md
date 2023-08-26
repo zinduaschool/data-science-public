@@ -28,7 +28,7 @@ The course goes through the SQL and data base design fundamentals required to be
 |---|---|---|---|
 | 3.1 | Introduction to ER Diagrams | ER Diagram Design. Company ER Diagram. Conceptual, Physical and Logical Database Schemas, Crawfords Notation | QUIZ: Set up a new database for assignements |
 | 3.2 | ACID Concepts in Database | Atomicity, Consistency, Integrity and Durability | CHALLENGE: Run a model and test its results on a cross-validation versus a train-test-split |
-| 3.3 | Database Normalization | Crawfords Notation Recap, Redundancy Concepts, 1 NF, 2 NF, 3 NF | QUIZ: Determining Tidy Data and how to outlier and missing data |
+| 3.3 | Database Normalization |Relationships, Redundancy Concepts, 1 NF, 2 NF, 3 NF | QUIZ: Determining Tidy Data and how to outlier and missing data |
 | 3.4 | Data Models Challenge |  Conceptual and Physical Schemas in Real Life | CHALLENGE: Given a data model, relationships between the different fields and/or tables, and link this to the business situation|
 | 3.5 | Data Models Challenge | PROJECT involving using information given by a hypothetical client to design a hospital database with multiple departments or service points | | |
 
