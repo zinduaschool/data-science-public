@@ -27,12 +27,20 @@ The course goes through the SQL and data base design fundamentals required to be
 | Index | Lesson | Content Breakdown | Project/Quiz |
 |---|---|---|---|
 | 3.1 | Introduction to ER Diagrams | ER Diagram Design. Company ER Diagram. Conceptual, Physical and Logical Database Schemas, Crawfords Notation | QUIZ: Set up a new database for assignements |
-| 3.2 | ACID Concepts in Database | Atomicity, Consistency, Integrity and Durability | CHALLENGE: Run a model and test its results on a cross-validation versus a train-test-split |
-| 3.3 | Database Normalization |Relationships, Redundancy Concepts, 1 NF, 2 NF, 3 NF | QUIZ: Determining Tidy Data and how to outlier and missing data |
+| 3.2 | ACID Concepts in Database | Atomicity, Consistency, Integrity and Durability | CHALLENGE: |
+| 3.3 | Database Normalization |Relationships, Redundancy Concepts, 1 NF, 2 NF, 3 NF | QUIZ:  |
 | 3.4 | Data Models Challenge |  Conceptual and Physical Schemas in Real Life | CHALLENGE: Given a data model, relationships between the different fields and/or tables, and link this to the business situation|
 | 3.5 | Data Models Challenge | PROJECT involving using information given by a hypothetical client to design a hospital database with multiple departments or service points | | |
 
 ## Week 4: Introduction to Power BI
+| Index | Lesson | Content Breakdown | Project/Quiz |
+|---|---|---|---|
+| 4.1 | Introduction to Power BI | Business Intelligence Tools, Overview of Power BI Service and Power BI Desktop | QUIZ: Set up Power BI on your Computer |
+| 4.2 | Basic Data Transformations  | Power Query Intro, Splitting Columns, Changing Data Types, Working With Dates, Re-ordering columns, Connecting to files in a Folder |  |
+| 4.3 | Intermediate Queries |Merge Queries, Data Models, Creating and Transforming Visualizations | QUIZ:  |
+| 4.4 | Advanced Visualization |  Conceptual and Physical Schemas in Real Life | CHALLENGE: |
+| 4.5 | Reporting | Power BI Reports, Publishing Reports, Data Story Telling Fundamentals| | |
+
 ## Week 5: SQL and Data Analysis Capstone
 Student will work on a project involving querying a database and connecting this to a Power BI Dashboard. 
 
