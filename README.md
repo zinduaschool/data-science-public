@@ -6,7 +6,7 @@ In this bootcamp, you will learn the essential skills for Data Science to be abl
 The core Data Science bootcamp runs for **30 weeks** and covers the following key modules:
 | Module/Course | Key Concepts | Curriculum | Duration |
 |---|---|---|---|
-| SQL Programming | SQL Queries, Building Databases | [Join Free Course](https://app.zinduaschool.com/free) | 2.5 weeks |
+| SQL Programming, Tableau Data Visualization and Database Design Fundamentals | SQL Queries, Data Viz, Building Databases | [Join Free Course](https://app.zinduaschool.com/free) | 2.5 weeks |
 | Python Programming | Python Basics, Data Types, Using Web Services, Advanced Python | [View Curriculum](/01-python-programming) | 5 weeks |
 | Python Data Analysis | Numpy, Pandas, and Data Visualisation (Matplotlib, Seaborn, & Tableau) | [View Curriculum](/02-python-data-analysis) | 5 weeks |
 | Machine Learning | Data Preprocessing, Regression, Classification, Model Evaluation | [View Curriculum](/03-machine-learning) | 5 weeks |
