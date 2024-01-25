@@ -1,4 +1,4 @@
-# SQL Programming and RDBMS Design Curriculum
+# SQL Programming, Tableu Data Visualization and RDBMS Design Curriculum
 Our SQL Programming and Data Visualization course is structured for learners enrolled in our **Data Science Foundations Course**, **30-Day Challenge** and **Data Science Core Track** bootcamps. 
 The course is modelled based on the [Girraffe's Academy](https://www.giraffeacademy.com/databases/sql/) SQL Course
 The course goes through the SQL and data base design fundamentals required to be a full stack data scientist or anyone venturing into the data management field. Here is a breakdown of our programming curriculum:
