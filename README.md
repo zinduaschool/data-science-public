@@ -11,7 +11,7 @@ The core Data Science bootcamp runs for **30 weeks** and covers the following ke
 | Python Data Analysis | Numpy, Pandas, and Data Visualisation (Matplotlib, Seaborn, & Tableau) | [View Curriculum](/02-python-data-analysis) | 5 weeks |
 | Machine Learning | Data Preprocessing, Regression, Classification, Model Evaluation | [View Curriculum](/03-machine-learning) | 5 weeks |
 | Advanced Machine Learning | Clustering, Dimensionality Reduction, Time Series Analysis, Neural Networks | [View Curriculum](/04-advanced-machine-learning) | 5 weeks |
-| Big Data Engineering | Databases, Haddop, PySpark, Data Streaming | [View Curriculum](/05-big-data-engineering) | 5 weeks |
+| Big Data Engineering | Databases, Haddop, PySpark, Data Streaming | [View Curriculum](https://github.com/zinduaschool/data-science-public/tree/main/06-big-data-engineering)  | 5 weeks |
 | Final Capstone | Build an end-to-end Machine Learning project and deploy it on Azure cloud | [View Graduate Projects](https://zinduaschool.com/projects) | 2.5 weeks |
 ### Additional Skills
 Here are some bonus courses that are taken alongside the content covered in the curriculum above. These include:
