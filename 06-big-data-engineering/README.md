@@ -1,6 +1,6 @@
 # Data Engineering Curriculum
 
-This course, focusses on Big Data Engineering concepts with an anchoring on Apache Spark.  Below is a breakdown of the course:
+This course, focusses on Big Data Engineering concepts with an anchoring on Apache Spark and Cloud.  Below is a breakdown of the course:
 ## Week 1: Introduction to Data Engineering and Data Processing
 | Index | Lesson | Content Breakdown | Project/Quiz |
 |---|---|---|---|
