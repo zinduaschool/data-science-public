@@ -1,4 +1,4 @@
-# Data Engineering Curriculum
+# Specialization: Big Data Engineering
 Official Curriculum for the Big Data Engineering Course in the Data Roadmap.
 
 - **Course Description:** A 12-week course that takes engineers from the data engineering lifecycle to a production-grade data platform. Learners build progressively — reproducible infrastructure, then batch and streaming ingestion, then orchestrated pipelines, then storage architecture and distributed processing in Spark — before extending the platform to machine learning and AI workloads. Theoretical content is cloud-agnostic, while practical labs and projects are anchored on **AWS** for a consistent hands-on experience. Data governance and security are woven throughout the course rather than taught as a standalone topic.
