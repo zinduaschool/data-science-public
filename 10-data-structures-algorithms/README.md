@@ -1,4 +1,11 @@
-# Data Structures & Algorithms — 60-Day Course
+# Bonus: Data Structures & Algorithms
+
+
+- **Course Description:** A 10-week bonus course that turns capable coders into problem solvers. Learners build progressively — complexity analysis and search, then sorting and recursion, then linear data structures, then greedy and dynamic programming, then trees, heaps and graphs — before closing with backtracking, intractability and approximation.
+
+- **Course Objective:** Equip learners to analyse an unfamiliar problem, identify its brute-force cost and the paradigm that fits, and implement an efficient solution while reasoning explicitly about time and space trade-offs.
+
+- **Skills to be learned:** Big-O analysis, searching & sorting algorithms, recursion, arrays, hashmaps, linked lists, stacks, queues & deques, greedy algorithms, dynamic programming, trees & heaps, graphs & traversal, pathfinding, backtracking, approximation algorithms
 
 **Audience:** Graduates of the Software Engineering and Data Science bootcamps. Capable coders, *not* CS majors — they need intuition for speed and memory, not formalism for its own sake.
 
@@ -26,6 +33,7 @@
 ---
 
 ## Week 1 — Foundations: cost as a first-class concern
+> **Objective:** Treat cost as a first-class concern: learners will be able to state the time and space complexity of an algorithm in Big-O notation, and compare linear, binary and interpolation search on the data they suit.
 
 **Section A**
 
@@ -44,6 +52,7 @@
 ---
 
 ## Week 2 — Sorting & first contact with recursion
+> **Objective:** Sort data and reason about the cost: learners will be able to implement and compare selection, bubble and insertion sort, and use recursion and divide-and-conquer to implement merge sort and quick sort.
 
 **Section A**
 
@@ -63,6 +72,7 @@
 ---
 
 ## Week 3 — Linear structures: the everyday workhorses
+> **Objective:** Choose the right everyday structure: learners will be able to use arrays and hashmaps for fast access and lookup, and implement linked lists while explaining their trade-offs against arrays.
 
 **Section B**
 
@@ -79,6 +89,7 @@
 ---
 
 ## Week 4 — Abstract types, then the first paradigm
+> **Objective:** Model behaviour with abstract types and a first paradigm: learners will be able to implement stacks, queues and deques, and recognise and solve problems where a greedy choice is provably correct.
 
 **Section B → C**
 
@@ -95,6 +106,7 @@
 ---
 
 ## Week 5 — Recursion → Memoization → Dynamic Programming
+> **Objective:** Turn exponential recursion into efficient solutions: learners will be able to add memoization to recursive solutions, build bottom-up dynamic programming tables, and apply the longest-common-subsequence pattern.
 
 **Section C**
 
@@ -114,6 +126,7 @@
 ---
 
 ## Week 6 — The Knapsack family
+> **Objective:** Optimise under constraints: learners will be able to recognise knapsack-style problems and solve 0/1 and unbounded knapsack variants with dynamic programming.
 
 **Section C**
 
@@ -132,6 +145,7 @@
 ---
 
 ## Week 7 — Trees & heaps
+> **Objective:** Work with hierarchical data: learners will be able to implement and traverse trees and binary search trees, and use heaps for priority-based problems.
 
 **Section D**
 
@@ -152,6 +166,7 @@
 ---
 
 ## Week 8 — Graphs & traversal
+> **Objective:** Model connected data: learners will be able to represent graphs as adjacency lists and matrices, and explore them with breadth-first and depth-first traversal.
 
 **Section D**
 
@@ -168,6 +183,7 @@
 ---
 
 ## Week 9 — Putting paradigms on graphs
+> **Objective:** Apply paradigms to graphs: learners will be able to find shortest paths with greedy and dynamic-programming algorithms such as Dijkstra and Floyd-Warshall, and solve dynamic programming problems on grids.
 
 **Section D** — *this is where the abstract paradigms from Weeks 4-6 get re-applied concretely. That re-application is the whole reason optimization came first.*
 
@@ -184,6 +200,7 @@
 ---
 
 ## Week 10 — Hard problems & advanced techniques (capstone)
+> **Objective:** Recognise the limits of efficient computation: learners will be able to solve constraint problems with backtracking, explain intractability and NP-hardness, and apply approximation strategies to problems such as the travelling salesman problem.
 
 **Section E** — *promoted from bonus to live. This is where "build problem solvers" is cashed out.*
 
