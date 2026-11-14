@@ -13,6 +13,19 @@ The core Data Science bootcamp runs for **30 weeks** and covers the following ke
 | Advanced Machine Learning | Clustering, Dimensionality Reduction, Time Series Analysis, Neural Networks | [View Curriculum](/04-advanced-machine-learning) | 5 weeks |
 | Big Data Engineering | Databases, Haddop, PySpark, Data Streaming | [View Curriculum](https://github.com/zinduaschool/data-science-public/tree/main/06-big-data-engineering)  | 5 weeks |
 | Final Capstone | Build an end-to-end Machine Learning project and deploy it on Azure cloud | [View Graduate Projects](https://zinduaschool.com/projects) | 2.5 weeks |
+## Class Notes
+Your technical mentors share the notes they use in live classes. Each module links to its notes repository; modules marked *Coming soon* do not have a public notes repository yet.
+
+| Module | Class Notes |
+|---|---|
+| SQL Programming, Tableau Data Visualization and Database Design Fundamentals | [GENDATA Notes](https://github.com/zinduaschool/GENDATA-notes) |
+| Python Programming | [Python Notes](https://github.com/zinduaschool/python-notes) |
+| Python Data Analysis | [PyData Notes](https://github.com/zinduaschool/pydata-notes) · [PyData Week 4 Notes](https://github.com/zinduaschool/pydata-notes-week4) |
+| Machine Learning | [Machine Learning Notes](https://github.com/zinduaschool/ml-notes) |
+| Advanced Machine Learning | [Machine Learning Notes](https://github.com/zinduaschool/ml-notes) (Advanced ML folders) |
+| Big Data Engineering | Coming soon |
+| Data Structures and Algorithms (bonus) | [DSA Notes](https://github.com/zinduaschool/dsa-notes) |
+
 ### Additional Skills
 Here are some bonus courses that are taken alongside the content covered in the curriculum above. These include:
 1. Git, Linux, and Command Line (On program commencement)
