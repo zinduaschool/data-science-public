@@ -7,10 +7,10 @@ The core Data Science bootcamp runs for **30 weeks** and covers the following ke
 | Module/Course | Key Concepts | Curriculum | Duration |
 |---|---|---|---|
 | SQL Programming, Tableau Data Visualization and Database Design Fundamentals | SQL Queries, Data Viz, Building Databases | [Join Free Course](https://app.zinduaschool.com/free) | 2.5 weeks |
-| Python Programming | Python Basics, Data Types, Using Web Services, Advanced Python | [View Curriculum](/01-python-programming) | 5 weeks |
-| Python Data Analysis | Numpy, Pandas, and Data Visualisation (Matplotlib, Seaborn, & Tableau) | [View Curriculum](/02-python-data-analysis) | 5 weeks |
-| Machine Learning | Data Preprocessing, Regression, Classification, Model Evaluation | [View Curriculum](/03-machine-learning) | 5 weeks |
-| Advanced Machine Learning | Clustering, Dimensionality Reduction, Time Series Analysis, Neural Networks | [View Curriculum](/04-advanced-machine-learning) | 5 weeks |
+| Python Programming | Python Basics, Data Types, Using Web Services, Advanced Python | [View Curriculum](/02-python-programming) | 5 weeks |
+| Python Data Analysis | Numpy, Pandas, and Data Visualisation (Matplotlib, Seaborn, & Tableau) | [View Curriculum](/03-python-data-analysis) | 5 weeks |
+| Machine Learning | Data Preprocessing, Regression, Classification, Model Evaluation | [View Curriculum](/04-machine-learning) | 5 weeks |
+| Advanced Machine Learning | Clustering, Dimensionality Reduction, Time Series Analysis, Neural Networks | [View Curriculum](/05-advanced-machine-learning) | 5 weeks |
 | Big Data Engineering | Databases, Haddop, PySpark, Data Streaming | [View Curriculum](https://github.com/zinduaschool/data-science-public/tree/main/06-big-data-engineering)  | 5 weeks |
 | Final Capstone | Build an end-to-end Machine Learning project and deploy it on Azure cloud | [View Graduate Projects](https://zinduaschool.com/projects) | 2.5 weeks |
 ## Class Notes
@@ -18,9 +18,9 @@ Your technical mentors share the notes they use in live classes. Each module lin
 
 | Module | Class Notes |
 |---|---|
-| SQL Programming, Tableau Data Visualization and Database Design Fundamentals | [GENDATA Notes](https://github.com/zinduaschool/GENDATA-notes) |
+| SQL Programming, Tableau Data Visualization and Database Design Fundamentals | [gendata-notes](https://github.com/zinduaschool/gendata-notes) |
 | Python Programming | [Python Notes](https://github.com/zinduaschool/python-notes) |
-| Python Data Analysis | [PyData Notes](https://github.com/zinduaschool/pydata-notes) · [PyData Week 4 Notes](https://github.com/zinduaschool/pydata-notes-week4) |
+| Python Data Analysis | [PyData Notes](https://github.com/zinduaschool/pydata-notes) |
 | Machine Learning | [Machine Learning Notes](https://github.com/zinduaschool/ml-notes) |
 | Advanced Machine Learning | [Machine Learning Notes](https://github.com/zinduaschool/ml-notes) (Advanced ML folders) |
 | Big Data Engineering | Coming soon |
