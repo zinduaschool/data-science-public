@@ -3,28 +3,45 @@
 In this bootcamp, you will learn the essential skills for Data Science to be able to unlock careers as a Data Scientist, Data Analyst, Machine Learning Engineer, or Data Engineer. To learn more about the bootcamp, [visit our Data Science website page](https://zinduaschool.com/programs/data-science-bootcamp/). To apply for the Zindua Data Science bootcamp, [go to our website APPLY page](https://zinduaschool.com/apply).
 
 ## The Program Breakdown
-The core Data Science bootcamp runs for **30 weeks** and covers the following key modules:
-| Module/Course | Key Concepts | Curriculum | Duration |
-|---|---|---|---|
-| SQL Programming, Tableau Data Visualization and Database Design Fundamentals | SQL Queries, Data Viz, Building Databases | [Join Free Course](https://app.zinduaschool.com/free) | 2.5 weeks |
-| Python Programming | Python Basics, Data Types, Using Web Services, Advanced Python | [View Curriculum](/02-python-programming) | 5 weeks |
-| Python Data Analysis | Numpy, Pandas, and Data Visualisation (Matplotlib, Seaborn, & Tableau) | [View Curriculum](/03-python-data-analysis) | 5 weeks |
-| Machine Learning | Data Preprocessing, Regression, Classification, Model Evaluation | [View Curriculum](/04-machine-learning) | 5 weeks |
-| Advanced Machine Learning | Clustering, Dimensionality Reduction, Time Series Analysis, Neural Networks | [View Curriculum](/05-advanced-machine-learning) | 5 weeks |
-| Big Data Engineering | Databases, Haddop, PySpark, Data Streaming | [View Curriculum](https://github.com/zinduaschool/data-science-public/tree/main/06-big-data-engineering)  | 5 weeks |
-| Final Capstone | Build an end-to-end Machine Learning project and deploy it on Azure cloud | [View Graduate Projects](https://zinduaschool.com/projects) | 2.5 weeks |
+The core Data Science program covers the following modules. Each module can be taken **part-time (3 weeks)** or **full-time (5 weeks)**:
+
+| Module/Course | Key Concepts | Curriculum | Part-time | Full-time |
+|---|---|---|---|---|
+| General Data Analysis | SQL, Database Design, Excel, Tableau | [View Curriculum](/01-sql-programming) | 3 weeks | 5 weeks |
+| Python Programming | Python Basics, Data Types, Using Web Services, Advanced Python | [View Curriculum](/02-python-programming) | 3 weeks | 5 weeks |
+| Python Data Analysis | NumPy, Pandas, Data Visualisation, Statistics & Probability | [View Curriculum](/03-python-data-analysis) | 3 weeks | 5 weeks |
+| Machine Learning | Data Preprocessing, Regression, Classification, Model Evaluation | [View Curriculum](/04-machine-learning) | 3 weeks | 5 weeks |
+| Advanced Machine Learning | Dimensionality Reduction, Clustering, Time Series Analysis, Deep Learning | [View Curriculum](/05-advanced-machine-learning) | 3 weeks | 5 weeks |
+| Final Capstone | Build an end-to-end Machine Learning project and deploy it on the cloud | [View Graduate Projects](https://zinduaschool.com/projects) | 2.5 weeks | 2.5 weeks |
+
+### Specializations
+Specializations are taken **part-time** and run for **15 weeks** in total.
+
+| Specialization | Key Concepts | Curriculum |
+|---|---|---|
+| Specialization: Big Data Engineering | Data Pipelines, Streaming, Airflow, Spark, MLOps | [View Curriculum](/06-big-data-engineering) |
+| Specialization: AI Engineering | LLMs, Agents, RAG, Fine-tuning, Evaluation, Guardrails, Deployment | [View Curriculum](/09-ai-engineering) |
+
+### Bonus Courses
+Bonus courses are taken **part-time** alongside or after the core program.
+
+| Bonus Course | Key Concepts | Curriculum |
+|---|---|---|
+| Bonus: Data Storytelling | Excel, Power BI, Dashboards, Data Storytelling | [View Curriculum](/07-data-storytelling) |
+| Bonus: Data Structures & Algorithms | Big-O, Sorting, Dynamic Programming, Trees, Graphs | [View Curriculum](/10-data-structures-algorithms) |
+
 ## Class Notes
 Your technical mentors share the notes they use in live classes. Each module links to its notes repository; modules marked *Coming soon* do not have a public notes repository yet.
 
 | Module | Class Notes |
 |---|---|
-| SQL Programming, Tableau Data Visualization and Database Design Fundamentals | [gendata-notes](https://github.com/zinduaschool/gendata-notes) |
+| General Data Analysis | [gendata-notes](https://github.com/zinduaschool/gendata-notes) |
 | Python Programming | [Python Notes](https://github.com/zinduaschool/python-notes) |
 | Python Data Analysis | [PyData Notes](https://github.com/zinduaschool/pydata-notes) |
 | Machine Learning | [Machine Learning Notes](https://github.com/zinduaschool/ml-notes) |
 | Advanced Machine Learning | [Machine Learning Notes](https://github.com/zinduaschool/ml-notes) (Advanced ML folders) |
-| Big Data Engineering | Coming soon |
-| Data Structures and Algorithms (bonus) | [DSA Notes](https://github.com/zinduaschool/dsa-notes) |
+| Specialization: Big Data Engineering | Coming soon |
+| Bonus: Data Structures & Algorithms | [DSA Notes](https://github.com/zinduaschool/dsa-notes) |
 
 ### Additional Skills
 Here are some bonus courses that are taken alongside the content covered in the curriculum above. These include:
