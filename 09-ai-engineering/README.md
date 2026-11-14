@@ -1,4 +1,4 @@
-# AI Engineering Specialization
+# Specialization: AI Engineering
 Official Curriculum for the AI Engineering Specialization Course in the AI Roadmap.
 
 - **Course Description:** A 15-week specialization that takes engineers from a first traced LLM call to a production-grade agentic system. Learners build progressively — a minimal agent, then tool-calling and structured outputs, then controlled agent loops and multi-agent orchestration, then advanced context engineering through RAG, memory and fine-tuning — before hardening the result with evaluation, guardrails and deployment.
